@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/alx-react/static/css/main.14f74e59.chunk.css",
+    "main.js": "/alx-react/static/js/main.45975222.chunk.js",
+    "main.js.map": "/alx-react/static/js/main.45975222.chunk.js.map",
+    "runtime-main.js": "/alx-react/static/js/runtime-main.f9ad3e87.js",
+    "runtime-main.js.map": "/alx-react/static/js/runtime-main.f9ad3e87.js.map",
+    "static/js/2.85f03dee.chunk.js": "/alx-react/static/js/2.85f03dee.chunk.js",
+    "static/js/2.85f03dee.chunk.js.map": "/alx-react/static/js/2.85f03dee.chunk.js.map",
+    "index.html": "/alx-react/index.html",
+    "static/css/main.14f74e59.chunk.css.map": "/alx-react/static/css/main.14f74e59.chunk.css.map",
+    "static/js/2.85f03dee.chunk.js.LICENSE.txt": "/alx-react/static/js/2.85f03dee.chunk.js.LICENSE.txt",
+    "static/media/close-icon.7ca727dc.png": "/alx-react/static/media/close-icon.7ca727dc.png",
+    "static/media/logo.24bab5d6.jpg": "/alx-react/static/media/logo.24bab5d6.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f9ad3e87.js",
+    "static/js/2.85f03dee.chunk.js",
+    "static/css/main.14f74e59.chunk.css",
+    "static/js/main.45975222.chunk.js"
+  ]
+}
