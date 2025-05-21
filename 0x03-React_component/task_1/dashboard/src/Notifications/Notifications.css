@@ -1,17 +1,18 @@
 .Notifications {
-  border: thin dotted #e0344a;
-  padding: 4px 16px;
-  float: right;
-}
-[data-notification-type='default'] {
-  color: blue;
+	border: 3px dotted var(--holberton-red);
+	padding: 6px 12px;
+	position: relative;
+	margin-top: 12px;
 }
 
-[data-notification-type='urgent'] {
-  color: red;
+.Notifications li {
+    font-size: 17px;
 }
 
-.menuItem {
-  text-align: right;
-  margin-right: 16px;
+li[data-notification-type="default"] {
+	color: blue;
+}
+
+li[data-notification-type="urgent"] {
+	color: var(--holberton-red);
 }
